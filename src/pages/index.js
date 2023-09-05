@@ -10,8 +10,8 @@ const images = [
 ]
 
 const WinnerImages = [
-  '/winner.jpg',
-  '/winner2.jpg'
+  '/lastwin1.jpg',
+  '/lastwin2.jpg'
 ]
 
 export default function Home({ alldata }) {
@@ -79,7 +79,7 @@ export default function Home({ alldata }) {
         <div className="Header w-full lg:justify-between py-20 px-2 lg:px-5">
           <div className="lg:flex px-2 mt-[3.5rem] lg:px-20">
             <div className="text-center lg:text-left flex-col justify-center text-white font-semibold lg:mx-10 lg:w-[30rem]">
-              <h1 className="text-3xl font-extrabold tracking-widest">Registrations Open For This Contest</h1>
+              <h1 className="text-3xl font-extrabold tracking-widest">Registrations Close For This Contest</h1>
               <h2 className="tracking-widest text-2xl mt-3">Competitions are held two times in a month and Top 3 cute babies with the most Likes wins.</h2>
               <p className="lg:pr-14 text-base">✅Free Entry 👫Age 0-10 yrs 🎁Win Gifts & Certificates 💸Prizes Worth ₹1,000 🏆3 Winners 👶Exciting Gifts For Baby's 🌎Make Your Kid Famous ✨✨</p>
               <div className='mt-4 justify-center flex items-center lg:justify-start'>

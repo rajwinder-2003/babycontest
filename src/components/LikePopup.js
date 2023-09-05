@@ -105,7 +105,7 @@ export default function LikePopup({ isVisible, setShowLikePopup, post }) {
 									<AiFillHeart className='text-white my-auto ml-2' />
 								</button>
 							) : (
-								<button onClick={() => AddDetails()} className={`text-white bg-red-500 rounded-md px-2 py-1 hover:scale-95 focus:scale-95 flex my-auto focus:bg-red-300`}>
+								<button disabled onClick={() => AddDetails()} className={`text-white bg-red-500 rounded-md px-2 py-1 hover:scale-95 focus:scale-95 flex my-auto focus:bg-red-300`}>
 									Like
 									<AiFillHeart className='text-white my-auto ml-2' />
 								</button>
