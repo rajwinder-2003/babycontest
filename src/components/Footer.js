@@ -24,8 +24,8 @@ export default function Footer () {
 					<Link href={'/privacy-policy'}>
 						<li className={`hover:cursor-pointer hover:text-red-500 text-sm font-medium uppercase ${router.pathname === '/privacy-policy' ? 'text-red-500' : ''}`}>Privacy Policy</li>
 					</Link>
-					<Link href={'/terms-&-conditions'}>
-						<li className={`hover:cursor-pointer hover:text-red-500 text-sm font-medium uppercase ${router.pathname === '/terms-&-conditions' ? 'text-red-500' : ''}`}>Terms & Conditions</li>
+					<Link href={'/terms-and-conditions'}>
+						<li className={`hover:cursor-pointer hover:text-red-500 text-sm font-medium uppercase ${router.pathname === '/terms-and-conditions' ? 'text-red-500' : ''}`}>Terms & Conditions</li>
 					</Link>
 					<Link href={'/contest-rules'}>
 						<li className={`hover:cursor-pointer hover:text-red-500 text-sm font-medium uppercase ${router.pathname === '/contest-rules' ? 'text-red-500' : ''}`}>Contest Rules</li>

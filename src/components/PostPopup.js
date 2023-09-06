@@ -101,7 +101,7 @@ export default function PostPopup({ isVisible, setShowPostPopup }) {
 							<input onChange={handleOnchange} className="block w-full text-sm rounded-lg cursor-pointer focus:outline-red-500 border px-4 py-2 border-red-500" type="file" />
 						</div>
 						<div className='flex w-full px-2'>
-							<h1 className='text-xs'>By clicking Submit Entry, you agree to <Link className='text-red-500' href='/contest-rules'>Contest Rules</Link>, <Link className='text-red-500' href='/privacy-policy'>Privacy Policy</Link> and <Link className='text-red-500' href='/terms-&-conditions'>T&C</Link>.</h1>
+							<h1 className='text-xs'>By clicking Submit Entry, you agree to <Link className='text-red-500' href='/contest-rules'>Contest Rules</Link>, <Link className='text-red-500' href='/privacy-policy'>Privacy Policy</Link> and <Link className='text-red-500' href='/terms-and-conditions'>T&C</Link>.</h1>
 						</div>
 						<div className="flex w-full justify-center items-center">
 							<button disabled onClick={(e) => SubmitDetails(e)} className="bg-red-500  text-white rounded-md px-2 py-1 hover:scale-95 focus:scale-95 flex my-auto">
