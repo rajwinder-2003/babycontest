@@ -2,7 +2,39 @@
    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
      <url>
        <loc>https://babycontest.org/</loc>
-       <lastmod>2023-08-21</lastmod>
+       <lastmod>2023-09-07</lastmod>
+     </url>
+     <url>
+       <loc>https://babycontest.org/blog/</loc>
+       <lastmod>2023-09-07</lastmod>
+     </url>
+     <url>
+       <loc>https://babycontest.org/about/</loc>
+       <lastmod>2023-09-07</lastmod>
+     </url>
+     <url>
+       <loc>https://babycontest.org/contact/</loc>
+       <lastmod>2023-09-07</lastmod>
+     </url>
+     <url>
+       <loc>https://babycontest.org/contest-rules/</loc>
+       <lastmod>2023-09-07</lastmod>
+     </url>
+     <url>
+       <loc>https://babycontest.org/disclaimer/</loc>
+       <lastmod>2023-09-07</lastmod>
+     </url>
+     <url>
+       <loc>https://babycontest.org/privacy-policy/</loc>
+       <lastmod>2023-09-07</lastmod>
+     </url>
+     <url>
+       <loc>https://babycontest.org/terms-&-conditions/</loc>
+       <lastmod>2023-09-07</lastmod>
+     </url>
+     <url>
+       <loc>https://babycontest.org/winner-gallary/</loc>
+       <lastmod>2023-09-07</lastmod>
      </url>
    </urlset>
 </xml>
